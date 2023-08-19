@@ -1,7 +1,7 @@
 from xml.sax.handler import feature_external_ges
 import streamlit as st
 import pandas as pd
-import plotly.express as px
+#import plotly.express as px
 from herows import *
 import re
 from collections import defaultdict
