@@ -1,12 +1,12 @@
 from xml.sax.handler import feature_external_ges
 import streamlit as st
 import pandas as pd
-#import plotly.express as px
+import plotly.express as px
 from herows import *
 import re
 from collections import defaultdict
-#import plotly.graph_objects as go
-#import seaborn as sns
+import plotly.graph_objects as go
+import seaborn as sns
 import matplotlib.pyplot as plt
 import plotly.figure_factory as ff
 import numpy as np
