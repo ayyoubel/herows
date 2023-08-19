@@ -5,7 +5,7 @@ import pandas as pd
 from herows import *
 import re
 from collections import defaultdict
-import plotly.graph_objects as go
+#import plotly.graph_objects as go
 import seaborn as sns
 import matplotlib.pyplot as plt
 import plotly.figure_factory as ff
